@@ -1,0 +1,1 @@
+My favorite topic covered in this class was search, sort, and filter. I'm interested in working with data in the future and they're needed to help with data manipulation. You can track how many people searched what and what filters people used so you can track what they're interested in for products.
